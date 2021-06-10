@@ -26,7 +26,7 @@ A Barra de Ferramentas do **Gvinci** apresenta os seguintes botões:
 
 ![](http://www.gvinci.com.br/manual/bferr9gv5.png)        Exibe o Painel de **Definição de Bancos de Dados**. Atalho: **&lt;F8&gt;.**
 
-![](http://www.gvinci.com.br/manual/bferr10gv5.png)        Exibe o Painel Controles Customizados. Atalho: &lt;F9&gt;.
+![](http://www.gvinci.com.br/manual/bferr10gv5.png)        Exibe o Painel Controles Customizados. Atalho: **&lt;F9&gt;**.
 
 ![](http://www.gvinci.com.br/manual/bferr11gv5.png)        Exibe o Painel de **Galeria de Imagens.** Para mais detalhes, consulte o tópico **Utilizando a Galeria de Imagens.** Atalho: **&lt;F7&gt;.**
 
