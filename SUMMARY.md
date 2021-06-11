@@ -54,6 +54,7 @@
       * [Renomeando módulos](manual-do-usuario/ide/untitled-1/modulos-da-solucao-less-than-f3-greater-than/renomeando-modulos.md)
     * [Controles &lt;F6&gt;](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/README.md)
       * [Controles Responsivos](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/controles-responsivos/README.md)
+        * [Carousel](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/controles-responsivos/carousel.md)
         * [Repeater](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/controles-responsivos/repeater.md)
         * [TabControl](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/controles-responsivos/tabcontrol.md)
         * [LayoutRow](manual-do-usuario/ide/untitled-1/gvinci-controles-less-than-f6-greater-than/controles-responsivos/layoutrow.md)
