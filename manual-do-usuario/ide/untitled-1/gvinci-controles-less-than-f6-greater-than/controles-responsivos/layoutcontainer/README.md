@@ -1,6 +1,6 @@
 # LayoutContainer
 
-![](../../../../../.gitbook/assets/image%20%2897%29.png)
+![](../../../../../../.gitbook/assets/image%20%28145%29.png)
 
 O LayoutContainer é um container de uso geral responsivo organizado no padrão Grid, de modo que linhas e colunas possam ser adicionadas e suas larguras definidas para cada breakpoint.
 
@@ -21,9 +21,9 @@ No [Bootstrap](https://getbootstrap.com/), cada breakpoint \(ponto de quebra\) f
 
 No Gvinci, os pontos de quebra são exibidos na parte superior da janela de design para os módulos definidos com LayoutResponsivo.
 
-![](../../../../../.gitbook/assets/image%20%2890%29.png)
+![](../../../../../../.gitbook/assets/image%20%2890%29.png)
 
 Assim, terá a possibilidade de definir a largura das colunas \(LayoutCol\) de modo a se adequar ao tamanho de dispositivo selecionado em cada breakpoint.
 
-Veja também: [Propriedades Controle LayoutContainer](../../gvinci-propriedades-less-than-f4-greater-than/controles/prop-layoutcontainer.md).
+Veja também: [Propriedades Controle LayoutContainer](prop-layoutcontainer.md).
 

@@ -2,9 +2,9 @@
 description: Propriedades
 ---
 
-# LayoutContainer
+# Prop: LayoutContainer
 
-![](../../../../../.gitbook/assets/image%20%2895%29.png)
+![](../../../../../../.gitbook/assets/image%20%2895%29.png)
 
 ## Aparência
 
@@ -18,7 +18,7 @@ Selecione uma imagem de fundo através da galeria de imagens clicando no botão 
 
 ### BackgroundPosition
 
-![](../../../../../.gitbook/assets/image%20%2898%29.png)
+![](../../../../../../.gitbook/assets/image%20%2898%29.png)
 
 Define o posicionamento da imagem de fundo na área interna do LayoutContainer.
 
@@ -30,7 +30,7 @@ None - Imagem é posicionada no
 
 Selecione o modo que deseja que a imagem de fundo seja repetida.
 
-![](../../../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../../../../.gitbook/assets/image%20%28110%29.png)
 
 NoRepeat - Imagem aparece apenas uma vez.
 
@@ -42,15 +42,15 @@ RepeatY - Imagem de fundo é repetida verticalemtne, no eixo Y.
 
 ### BackgroundSize
 
-![](../../../../../.gitbook/assets/image%20%28102%29.png)
+![](../../../../../../.gitbook/assets/image%20%28102%29.png)
 
 ### BackgroundStretch
 
-![](../../../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../../../../.gitbook/assets/image%20%2894%29.png)
 
 ### ContainerType
 
-![](../../../../../.gitbook/assets/image%20%2888%29.png)
+![](../../../../../../.gitbook/assets/image%20%2888%29.png)
 
 ## Diversos
 
@@ -95,7 +95,7 @@ Propriedade não está em uso atualmente e pode ser retirada e futuras versões.
 
 ### VerticalAlignment
 
-![](../../../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../../../../.gitbook/assets/image%20%2889%29.png)
 
 Define o alinhamento vertical do controle LayoutContainer com relação ao Form.
 
@@ -113,7 +113,7 @@ O valor da propriedade pode ser editado diretamente.
 
 Na barra de ferramentas da janela de design, os botões destacados na imagem abaixo são responsáveis por trazer um objeto para a frente dos demais ou levar o objeto para trás dos demais. Portanto, alterando o ZIndex dos mesmos:
 
-![](../../../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../../../../.gitbook/assets/image%20%2896%29.png)
 
 ## Miscellaneous
 
@@ -121,7 +121,7 @@ Na barra de ferramentas da janela de design, os botões destacados na imagem aba
 
 Define um nome ou identificação para o controle, de modo que possa ser referenciado em código e também seja identificado de forma unívoca nos locais onde são listados. Exemplo:
 
-![](../../../../../.gitbook/assets/image%20%2892%29.png)
+![](../../../../../../.gitbook/assets/image%20%2892%29.png)
 
 No topo do painel de propriedades são listados numa caixa de seleção todos os controles posicionados na tela. Sendo exibido do lado esquerdo o ID do controle e do lado direito o tipo do controle.
 
@@ -133,7 +133,7 @@ O Gvinci gera um ID padrão para cada controle adicionado na tela de design, usa
 
 ### Display
 
-![](../../../../../.gitbook/assets/image%20%28104%29.png)
+![](../../../../../../.gitbook/assets/image%20%28104%29.png)
 
 Define a visibilidade dos controles conforme as definições de [Display do Bootstrap](https://getbootstrap.com/docs/4.0/utilities/display/). 
 
@@ -143,7 +143,7 @@ Veja também:
 
 ### LoginVisibility
 
-![](../../../../../.gitbook/assets/image%20%28112%29.png)
+![](../../../../../../.gitbook/assets/image%20%28112%29.png)
 
 Define a visibilidade do controle conforme o status da autenticação.
 

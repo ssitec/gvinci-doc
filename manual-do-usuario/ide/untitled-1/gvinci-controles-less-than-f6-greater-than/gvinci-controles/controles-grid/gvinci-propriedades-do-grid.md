@@ -68,3 +68,5 @@ Para detalhes, consulte o tópico Relacionamento no Grid.
 **• StyleMode:** Permite definir como será a contagem das páginas  
 **• TableBehavior:** Determina se o Grid terá tamanho fixo \(Fixed\) ou se poderá ser redimensionado \(Normal\)
 
+
+
