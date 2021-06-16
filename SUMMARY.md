@@ -506,7 +506,12 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled/README.md)
+* [FAQ: Gvinci](faq/faq-gvinci/README.md)
+  * [O projeto gerado poderá subsistir se eu parar de usar o Gvinci?](faq/faq-gvinci/o-projeto-gerado-podera-subsistir-se-eu-parar-de-usar-o-gvinci.md)
+  * [Com quais bancos de dados posso trabalhar?](faq/faq-gvinci/com-quais-bancos-de-dados-posso-trabalhar.md)
+  * [O Gvinci gera um código fonte que depois eu possa manter? Em qual linguagem?](faq/faq-gvinci/o-gvinci-gera-um-codigo-fonte-que-depois-eu-possa-manter-em-qual-linguagem.md)
+  * [Em qual linguagem o GVinci entrega a aplicação fonte?](faq/faq-gvinci/em-qual-linguagem-o-gvinci-entrega-a-aplicacao-fonte.md)
+* [FAQ: Banco de Dados](faq/untitled/README.md)
   * [Baixando e instalando o SQL Server 2012 Express \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/README.md)
     * [Abrindo o SQL Management Studio \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/abrindo-o-sql-management-studio.md)
 
