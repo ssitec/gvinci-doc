@@ -8,7 +8,7 @@ description: >-
 
 
 
-![](https://lh5.googleusercontent.com/-6epVxL0P1VDU-kidCYU8wwSM28v55nbrwdG7D9ow6ts1dxZHU4QN3qlOawUcckHq8G1svuNCO0l8J5VxJtqGfwlv3QuG-W7s-DpE1c4P03rn3UFYFcawDDM3fHOysB4JOwtRBBi7f8)
+![](.gitbook/assets/logo-jpg.jpg)
 
 
 
