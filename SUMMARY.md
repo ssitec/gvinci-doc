@@ -2,6 +2,7 @@
 
 * [Introdução](README.md)
 * [Novo? Inicie Aqui](get-started.md)
+* [Release notes](release-notes.md)
 
 ## Manual do Usuário
 
@@ -515,10 +516,6 @@
     * [Abrindo o SQL Management Studio \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/abrindo-o-sql-management-studio.md)
 
 ## Novidades
-
----
-
-* [Release notes](release-notes.md)
 
 ## Propriedades
 
