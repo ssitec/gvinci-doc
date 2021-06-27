@@ -18,9 +18,21 @@ Com múltiplos objetos selecionados são exibidas muito mais botões de funçõe
 
 Vamos começar detalhando as funções básicas dos botões para único objeto selecionado, descrevendo a função de cada um.
 
-Desfazer - 
+### ![](../../../../.gitbook/assets/image%20%28122%29.png) Desfazer
 
-![](../../../../.gitbook/assets/image%20%28126%29.png)
+Cada vez que clicar neste botão, serão desfeitas as últimas ações de edição do desenho da tela, da mais recente para a alteração mais antiga, desde o momento que iniciou a edição do módulo.
+
+{% hint style="info" %}
+O atalho CTRL+Z pode ser usado para realizar a mesma função do clique neste botão.
+{% endhint %}
+
+### ![](../../../../.gitbook/assets/image%20%28133%29.png) Refazer
+
+Cada vez que clicar neste botão, serão refeitas as alterações que tenham sido desfeitas pela função "Desfazer", que ocorreram desde que o módulo foi aberto para edição.
+
+{% hint style="info" %}
+O atalho 
+{% endhint %}
 
 ![](../../../../.gitbook/assets/image%20%28133%29.png)
 
@@ -42,7 +54,13 @@ Desfazer -
 
 ![](../../../../.gitbook/assets/image%20%28143%29.png)
 
-![](../../../../.gitbook/assets/image%20%28147%29.png)
+ Use o botão ![](../../../../.gitbook/assets/image%20%28147%29.png)  da aba Design quando desejar gerar os fontes do módulo, sem necessidade de geração completa da solução.
+
+{% hint style="success" %}
+Este recurso é muito interessante, pois mesmo que o projeto já esteja em execução para testes, a geração de um fontes de um módulo específico irá refletir automaticamente no navegador, bastando que atualize a página no browser.
+{% endhint %}
+
+
 
 ![](../../../../.gitbook/assets/image%20%28137%29.png)
 
