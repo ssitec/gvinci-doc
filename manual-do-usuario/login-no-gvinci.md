@@ -36,17 +36,17 @@ Um email será enviado para o endereço de email informado contendo um código d
 
 #### **2.** Clique no link **"Informar Código"**, na tela de Login.
 
-![](http://www.gvinci.com.br/manual/informacodigogv.zoom90.png)
+![Click no link informar c&#xF3;digo](../.gitbook/assets/image%20%28154%29.png)
 
 #### **3.** Abra a caixa de entrada de seu email e insira o código de recuperação informado no campo **"Código de Recuperação"**;
 
-![](http://www.gvinci.com.br/manual/recuperasenhagv.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 #### **4.** Preencha os campos **"Nova senha"** e **"Confirmar senha"**;
 
 #### **5.** Clique em **"Alterar"** e caso não haja erro, a seguinte mensagem irá aparecer:
 
-![](http://www.gvinci.com.br/manual/senhaalteradagv.png)
+Senha alterada com sucesso.
 
 #### **6.** Clique em ![](http://www.gvinci.com.br/manual/ok-bt-2.jpg).
 
@@ -55,8 +55,6 @@ Um email será enviado para o endereço de email informado contendo um código d
 ![](https://ssitecnologia.atlassian.net/wiki/download/attachments/2261023/image2020-12-1_9-47-26.png?version=1&modificationDate=1606830447587&cacheVersion=1&api=v2)
 
 Na opção **"Informar código"** teremos acesso à caixa de Recuperação de Senha, onde poderão ser inseridos os dados necessários para a recuperação da senha.
-
-![](http://www.gvinci.com.br/manual/recuperasenhagv.png)
 
 E-mail: Insira o endereço do email para onde será enviado o código de recuperação.
 

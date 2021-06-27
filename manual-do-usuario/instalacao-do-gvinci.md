@@ -10,11 +10,11 @@ Durante a instalação do **Gvinci**, o SQL Server também poderá ser instalado
 
 ### **2.** A página abaixo é exibida. Clique no botão "Teste grátis" o link "Downloads";
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 ### **3.** Preencha os dados:
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
 ### **4.** Após o preenchimento dos dados e clicar no botão **"Cadastrar e Ativar"**, teremos a confirmação da criação da conta SSI e a ativação da licença de testes por 30 dias, no quadro abaixo disponibiliza a última versão para baixarmos e iniciar a instalação.
 

@@ -40,7 +40,6 @@
         * [Singulares: Filtro](manual-do-usuario/ide/area-de-trabalho/definitions/singulares/singulares-filtro.md)
         * [Singulares: Construtor de consultas](manual-do-usuario/ide/area-de-trabalho/definitions/singulares/singulares-construtor-de-consultas.md)
     * [Design](manual-do-usuario/ide/area-de-trabalho/design/README.md)
-      * [Untitled](manual-do-usuario/ide/area-de-trabalho/design/untitled.md)
       * [Ferramentas do design](manual-do-usuario/ide/area-de-trabalho/design/ferramentas-do-design.md)
       * [Formatando a tela](manual-do-usuario/ide/area-de-trabalho/design/formatando-a-tela.md)
       * [Inserindo controles no design](manual-do-usuario/ide/area-de-trabalho/design/inserindo-controles-no-design.md)
