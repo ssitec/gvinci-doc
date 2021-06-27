@@ -11,7 +11,8 @@ Estamos animados em anunciar que estamos dando os últimos retoques em um grande
 Aqui está um pouco do que está por vir:
 
 * Uma coleção com mais de 1500 **ícones**, com possibilidade de alteração de **cores** e **tamanhos**.
-* Adicionado uso do Bootstrap5;
+* Atualizado componente de botões para radbutton, com possibilidade de skins, icones e outros.
+* Atualizado o Bootstrap para a versão 5;
 * Gerenciador de estilos de controles e telas;
 * Duplicação de Relatórios Telerik.
 * Adicionada propriedade Columns para container LayoutCol que indica um breakpoint comum para todos os breakpoints
