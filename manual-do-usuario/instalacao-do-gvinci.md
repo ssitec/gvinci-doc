@@ -8,31 +8,23 @@ Durante a instalação do **Gvinci**, o SQL Server também poderá ser instalado
 
 ### **1.** Em seu navegador, acesse o link: [http://www.gvinci.com.br/Site/Home](http://www.gvinci.com.br/Site/Home)
 
-### **2.** A página abaixo é exibida. Clique no botão ![](http://www.gvinci.com.br/manual/btntrial.jpg);
+### **2.** A página abaixo é exibida. Clique no botão "Teste grátis" o link "Downloads";
 
-![](http://www.gvinci.com.br/manual/8_002.zoom44.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
-Aparecerão as opções:
+### **3.** Preencha os dados:
 
-![](http://www.gvinci.com.br/manual/trialopc.jpg)
+![](../.gitbook/assets/image%20%28154%29.png)
 
-### **3.** Escolhendo a segunda opção, preencha os dados solicitados:
+### **4.** Após o preenchimento dos dados e clicar no botão **"Cadastrar e Ativar"**, teremos a confirmação da criação da conta SSI e a ativação da licença de testes por 30 dias, no quadro abaixo disponibiliza a última versão para baixarmos e iniciar a instalação.
 
-![](http://www.gvinci.com.br/manual/trialopc2.png)
-
-![](http://www.gvinci.com.br/manual/trialcadnovo.zoom80.png)
-
-### **4.** Após o preenchimento dos dados e clicar no botão **"Continuar"**, teremos a confirmação da criação da conta SSI e a ativação da licença de testes por 30 dias, no quadro abaixo disponibiliza a última versão para baixarmos e iniciar a instalação.
-
-![](http://www.gvinci.com.br/manual/8_003.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 Você receberá um e-mail com instruções. Abra sua caixa de entrada para ler as instruções enviadas.
 
-![](http://www.gvinci.com.br/manual/8_008.png)
+### **5.** Ainda na tela de confirmação do cadastro, clique no botão **"Download"**
 
-### **5.** Ainda na tela de confirmação do cadastro, clique no botão **"Baixar"**
 
-![](http://www.gvinci.com.br/manual/8_004.png)
 
 ### **6.** Após o download, localize o arquivo instalador e execute-o, através de um duplo clique. Um aviso de segurança será exibido.
 
@@ -160,8 +152,7 @@ Para executar o Gvinci é necessária a seguinte plataforma:
   <tbody>
     <tr>
       <td style="text-align:left">Sistemas operacionais suportados</td>
-      <td style="text-align:left">Windows Server 2003 ou superior;Windows 8; Windows 8.1; Windows 10 ou
-        Superior.</td>
+      <td style="text-align:left">Windows Server 2003 ou superior; Windows 10 ou Superior.</td>
     </tr>
     <tr>
       <td style="text-align:left">Software para executar o GVinci</td>
@@ -188,9 +179,9 @@ Para executar o Gvinci é necessária a seguinte plataforma:
       <td style="text-align:left">Softwares para executar a aplica&#xE7;&#xE3;o gerada</td>
       <td style="text-align:left">
         <ul>
-          <li>Servidor Windows IIS (recurso do pr&#xF3;rpio windows) - Videos</li>
+          <li>Servidor Windows IIS (recurso do pr&#xF3;prio windows) - V&#xED;deos</li>
           <li>.NET Framework 3.5 com Service Pack 1 ou superior - Link</li>
-          <li>Opcionais da solu&#xE7;&#xE3;o, conforme defini&#xE7;&#xE3;o do desenvoledor:</li>
+          <li>Opcionais da solu&#xE7;&#xE3;o, conforme defini&#xE7;&#xE3;o do desenvolvedor:</li>
           <li>Bancos de dados com conex&#xE3;o nativa do Gvinci:</li>
           <li>MS SQL Server: Express 2008 ou superior - Link</li>
           <li>MySQL: 5.1 ou superior - Link</li>
