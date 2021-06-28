@@ -6,7 +6,7 @@
 
 ## Manual do Usuário
 
-* [Baixando e instalando o GVinci](manual-do-usuario/instalacao-do-gvinci.md)
+* [Baixando e instalando o Gvinci](manual-do-usuario/instalacao-gvinci.md)
 * [Acesso a IDE do Gvinci](manual-do-usuario/login-no-gvinci.md)
 * [Conhecendo a IDE do Gvinci](manual-do-usuario/ide/README.md)
   * [Área de trabalho](manual-do-usuario/ide/area-de-trabalho/README.md)
