@@ -2,7 +2,7 @@
 description: "Aqui estão os novos recursos e melhorias do Gvinci, que torna nossa ferramenta cada vez melhor. Não deixei de aproveitar! \U0001F680"
 ---
 
-# Release notes
+# Novidades
 
 ## Em Breve 🚀
 
