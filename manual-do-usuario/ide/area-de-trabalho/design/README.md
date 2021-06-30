@@ -88,7 +88,17 @@ O atalho CTRL+Y pode ser usado para realizar a mesma função do clique neste bo
 
 ### ![](../../../../.gitbook/assets/image%20%28148%29.png) Trazer para frente
 
+Com uma visão de planos em camadas, podemos movimentar os controles para camadas mais a frente ou mais atrás na visualização. A propriedade Z-Index permite definir um valor numérico que, quanto maior, mais a frente ficará o controle.
+
+O botão trazer para frente faz com que o controle selecionado assuma um maior valor de Z-Index para que seja exibido sobre os demais controles da tela. A cada clique, o controle vai ganhando um Z-Index maior e avançando em direção a camada mais a frente no design.
+
+{% hint style="info" %}
+Caso o controle esteja sob muitos outros de modo que não seja possível selecioná-lo através do clique do mouse, use a caixa de seleção que fica no topo do painel de Propriedades ou o painel Estrutura de objetos para selecioná-lo e em seguida, clicando no botão "Trazer para frente", até o deixar em primeiro plano se assim desejar.
+{% endhint %}
+
 ### ![](../../../../.gitbook/assets/image%20%28132%29.png) Enviar para trás
+
+Semelhante ao botão "Trazer para frente", o botão "Enviar para trás" faz com que a propriedade "Z-Index" do objeto selecionado assuma um menor valor para que seja posicionado visualmente por trás de outros controles a medida que vai sendo clicado.
 
 ## Grupo Clipboard
 
