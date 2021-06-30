@@ -92,9 +92,17 @@ O atalho CTRL+Y pode ser usado para realizar a mesma função do clique neste bo
 
 ## Grupo Clipboard
 
-![](../../../../.gitbook/assets/image%20%28140%29.png)
+### ![](../../../../.gitbook/assets/image%20%28140%29.png) Copiar
 
-![](../../../../.gitbook/assets/image%20%28130%29.png)
+Com um ou vários objetos selecionados copie-os para a área de transfeência e poderá colá-los em outro módulo ou replicar os controles na mesma tela.
+
+### ![](../../../../.gitbook/assets/image%20%28130%29.png) Colar
+
+Após copiados para a área de transferência, os objetos poderão ser colados em outras telas ou na mesma tela de onde foram copiados por meio do botão colar.
+
+{% hint style="success" %}
+Quando colados os controles na mesma tela de onde foram copiados, os IDs dos controles recebem uma identificação acompanhada de um número sequencial de modo a não duplicar a identificação dos controles. Caso deseje, renomeie-os com identificação que facilite o referenciamento em codificação manual ou facilidade de identificação lógica de sua função.
+{% endhint %}
 
 ## Grupo Capitalização
 
@@ -122,7 +130,9 @@ O TabIndex é a propriedade responsável por definir a ordem com que os controle
 
 ![](../../../../.gitbook/assets/image%20%28176%29.png)
 
-
+{% hint style="info" %}
+O atalho CTRL+SHIFT+T pode ser usado para ativar ou desativar a exibição da ordem do TabIndex nos controles pertinentes.
+{% endhint %}
 
 ### ![](../../../../.gitbook/assets/image%20%28143%29.png) Bloquear edição
 
@@ -143,6 +153,14 @@ Caso ocorra alteração de providers, uso de novas tabelas criadas, ou alteraç�
 {% endhint %}
 
 ### ![](../../../../.gitbook/assets/image%20%28137%29.png) Exibir objetos ocultos
+
+A visibilidade dos controles pode ser alterada por meio da propriedade "Display". Os controles podem ser ocultados, inclusive de forma seletiva para breakpoints específicos em layouts responsivos. O design do módulo irá refletir os efeitos das propriedades definidas, ocultando efetivamente o controle.
+
+Através do checkbox "Exibir objetos ocultos", podemos visualisar os controles que foram ocultados, seja para executar alguma operação visual de arrastar-e-soltar, simplesmente selecionar o controle para definição de propriedades através do clique sobre o controle ou visualização de posicionamento com relação aos demais controles.
+
+{% hint style="info" %}
+Mesmo estando ocultos os controles, os mesmos podem ser selecionados através da listagem de controles na parte de acima da janela de propriedades ou através do painel "Estrutura de objetos"
+{% endhint %}
 
 
 
