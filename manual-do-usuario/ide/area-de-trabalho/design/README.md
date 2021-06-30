@@ -100,17 +100,33 @@ O atalho CTRL+Y pode ser usado para realizar a mesma função do clique neste bo
 
 ### ![](../../../../.gitbook/assets/image%20%28119%29.png) Primeira letra maiúscula
 
+Transforma a primeira letra de cada palavra do texto do controle selecionado em letra maiúscula.
+
+![](../../../../.gitbook/assets/image%20%28180%29.png)
+
 ### ![](../../../../.gitbook/assets/image%20%28139%29.png) Letras maiúsculas
+
+Transforma todas as letras do texto do controle selecionado em letras maiúsculas.
+
+![](../../../../.gitbook/assets/image%20%28178%29.png)
 
 ### ![](../../../../.gitbook/assets/image%20%28123%29.png) Letras minúsculas
 
+Transforma todas as letras do texto do controle selecionado em letras minúsculas.
+
+![](../../../../.gitbook/assets/image%20%28177%29.png)
+
 ### ![](../../../../.gitbook/assets/image%20%28124%29.png) Mostrar TabIndex
 
+O TabIndex é a propriedade responsável por definir a ordem com que os controles receberão o foco cada vez que for pressionada a tecla TAB ou ENTER. Ao clicar neste botão, os controles que podem receber o foco mostrarão um pequeno número no canto superior esquerdo que corresponde ao mesmo valor da propriedade TabIndex do referido controle.
 
+![](../../../../.gitbook/assets/image%20%28176%29.png)
 
 
 
 ### ![](../../../../.gitbook/assets/image%20%28143%29.png) Bloquear edição
+
+Quando achar que seu módulo estiver pronto, que não deve receber atualizações frequentes ou mesmo para evitar que acidentalmente faça alterações indesejadas no design, clique no botão para que sejam bloqueadas alterações. A imagem do botão será alterada para um cadeado fechado ![](../../../../.gitbook/assets/image%20%28179%29.png).
 
 ## Diversos
 
@@ -127,4 +143,6 @@ Caso ocorra alteração de providers, uso de novas tabelas criadas, ou alteraç�
 {% endhint %}
 
 ### ![](../../../../.gitbook/assets/image%20%28137%29.png) Exibir objetos ocultos
+
+
 
