@@ -24,6 +24,10 @@ Vamos começar detalhando as funções básicas dos botões para único objeto s
 
 ### ![](../../../../.gitbook/assets/image%20%28168%29.png) Auto geração de tela padrão
 
+As páginas de dados, após definição da propriedade "Tabela", da aba "Definitions", poderão ter geração automática de tela, clicando no botão da imagem acima.
+
+
+
 ### ![](../../../../.gitbook/assets/image%20%28161%29.png) Auto geração de tela com grid
 
 ### ![](../../../../.gitbook/assets/image%20%28162%29.png) Auto geração de tela com repeater
@@ -104,7 +108,7 @@ Semelhante ao botão "Trazer para frente", o botão "Enviar para trás" faz com 
 
 ### ![](../../../../.gitbook/assets/image%20%28140%29.png) Copiar
 
-Com um ou vários objetos selecionados copie-os para a área de transfeência e poderá colá-los em outro módulo ou replicar os controles na mesma tela.
+Com um ou vários objetos selecionados copie-os para a área de transferência e poderá colá-los em outro módulo ou replicar os controles na mesma tela.
 
 ### ![](../../../../.gitbook/assets/image%20%28130%29.png) Colar
 
