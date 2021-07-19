@@ -28,6 +28,12 @@ As páginas de dados, após definição da propriedade "Tabela", da aba "Definit
 
 
 
+{% hint style="success" %}
+Este é um recurso muito interessante para quem precisa desenvolver um sistema funcional de forma rápida, sem muita preocupação com o visual. Assim, as telas de cadastros com todo o controle de CRUD \(Create - Criação, Read - Leitura, Update - Atualização e Delete - Exclusão\) já são criadas com todos os campos da tabela.
+{% endhint %}
+
+
+
 ### ![](../../../../.gitbook/assets/image%20%28161%29.png) Auto geração de tela com grid
 
 ### ![](../../../../.gitbook/assets/image%20%28162%29.png) Auto geração de tela com repeater
@@ -52,7 +58,11 @@ O atalho CTRL+Y pode ser usado para realizar a mesma função do clique neste bo
 
 ## Grupo Alinhamentos
 
+Selecione os múltiplos objetos de tela de modo que o último objeto selecionado seja o controle de referência. Dessa forma todos os controles selecionados ficarão com o mesmo alinhamento do lado escolhido, conforme a posição do último controle da seleção.
+
 ### ![](../../../../.gitbook/assets/image%20%28170%29.png) Alinhar a esquerda
+
+Posiciona todos os controles selecionados mantendo a mesma propriedade Le
 
 ### ![](../../../../.gitbook/assets/image%20%28163%29.png) Alinhar ao topo
 
